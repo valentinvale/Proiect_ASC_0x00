@@ -2,8 +2,11 @@
 Acesta este repository-ul pentru proiectul ASC
 
 Numele echipei noastre: IVG
+
 Numele echipei adverse: TD
+
 Parola echipei adverse: xyAsie69JkWC4u2
+
 
 Explicații suplimentare:
 
